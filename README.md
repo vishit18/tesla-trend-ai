@@ -45,6 +45,8 @@ Stock price prediction is complicated by the need to combine structured financia
 ---
 
 ## Project Structure
+
+```plaintext
 .
 ├── data/
 │   ├── cleaned_tweets.csv
@@ -56,11 +58,10 @@ Stock price prediction is complicated by the need to combine structured financia
 │   ├── get_tesla_stock.py
 │   ├── clean_and_explore.py
 │   ├── merge_data.py
-│   ├── model_tesla_stock.py
-│   └── predict.py
+│   └── model_tesla_stock.py
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
